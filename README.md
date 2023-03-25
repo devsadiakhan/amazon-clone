@@ -45,4 +45,4 @@ It is my Amazon clone project built with ReactJS and Fake Store API.
 ## Authors
 
 - [@hasibulislam999](https://github.com/hasibulislam999)
-
+- [@sadia-khanum](https://github.com/sadia-khanum)
